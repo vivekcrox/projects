@@ -1,4 +1,7 @@
 # 🚧🚓 Car Parking Prediction using OpenCV Python | Computer Vision 🚓🚧
+<img src="https://github.com/vivekcrox/projects/assets/133307528/9c49ae62-8602-4ae0-bd0d-8b08a30f1ee4" height="300">
+<img src="https://github.com/vivekcrox/projects/assets/133307528/7b8eca09-6b1f-4392-90b5-c86c297dbacd" height="300">
+
 ##  ❄ Part-1: Parking Space Finder Script                  
 📁 **(File : parkingSpacePicker.py):**
 
