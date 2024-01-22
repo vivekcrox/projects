@@ -13,7 +13,7 @@ This project entails the creation of a fire alarm circuit using temperature and 
    
    - Microcontroller for processing sensor inputs and providing desired outputs.
   
-3. **LM-35 Temperature Sensor:**
+3. **TMP-36 Temperature Sensor:**
 
    <img src="https://github.com/vivekcrox/projects/assets/133307528/45979346-fad4-4430-8881-2b782efde4fe" height="100">
    
