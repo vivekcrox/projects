@@ -1,6 +1,11 @@
 # 🔥🚒 Fire Alarm System by Interfacing Arduino with Temperature & Gas Sensor using TinkerCad          
   <img src="https://github.com/vivekcrox/projects/assets/133307528/71d7a613-bbbd-444a-9cba-227f2fb93fac" height="200">
 
+  Tinkercad Link : 
+  https://www.tinkercad.com/things/eBrPsHzXk1E-fire-alarm-detection-system/editel
+  https://www.tinkercad.com/things/cgiLAHr0OMB-firealarmsystemvivek
+        
+
 ## ❄ Overview
 
 This project entails the creation of a fire alarm circuit using temperature and gas sensors, interfaced with Arduino on TinkerCad simulation software. The simulation environment allows for thorough testing before physical implementation, mitigating potential damage risks.
